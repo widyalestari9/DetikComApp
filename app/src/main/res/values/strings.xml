@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Try DetikCom</string>
+    <string name="text_terbaru">Terbaru</string>
+    <string name="text_berita_utama">Berita Utama</string>
+    <string name="text_antarkansemangat">#AntarkanSemangat</string>
+    <string name="text_most_p">Most Popular</string>
+    <string name="_contdesc">contdesc</string>
+    <string name="text_judul_headline">Judul Headline</string>
+    <string name="text_deskripsi_headline">Deskripsi Headline</string>
+    <string name="text_foto_desc">Photo Description</string>
+    <string name="text_detiknews">detiknews</string>
+    <string name="text_judul_berita">Judul Berita</string>
+    <string name="text_yudisitira_saputra">Yudisitira Saputra - detikNews</string>
+    <string name="text_date">Senin, 7 Desember 2020 10.45 WIB</string>
+    <string name="text_baca_juga">Baca Juga : Judul Berita Terkait</string>
+    <string name="text_todo">TODO</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown
+        printer took a galley of type and scrambled it to make a type specimen book. It has survived not
+        only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+        It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
+        literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
+        College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
+        and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum
+        comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero,
+        written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first
+        line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+        The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
+        Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact
+        original form, accompanied by English versions from the 1914 translation by H. Rackham.</string>
+    <string name="contdesc">contdesc</string>
+    <string name="foto_desc">foto_desc</string>
+    <string name="detiknews">detiknews</string>
+    <string name="judul_berita">judul_berita</string>
+    <string name="date">date</string>
+    <string name="yudisitira_saputra">yudisitira_saputra</string>
+    <string name="yudisitira">yudisitira</string>
+    <string name="baca_juga">baca_juga</string>
+</resources>

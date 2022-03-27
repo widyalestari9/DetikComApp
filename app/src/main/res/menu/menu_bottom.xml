@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuHome"
+        android:title="home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/menuLayanan"
+        android:title="layanan"
+        android:icon="@drawable/ic_tag"/>
+
+    <item android:id="@+id/menuKategori"
+        android:title="kategori"
+        android:icon="@drawable/ic_kategori"/>
+
+    <item android:id="@+id/menuVideo"
+        android:title="video"
+        android:icon="@drawable/ic_video"/>
+
+</menu>
